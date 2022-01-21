@@ -1,3 +1,12 @@
+
+
+# git 操作指南
+
+1. git clone ssh链接（如git@github.com:id-none/Digital-module.git）把github仓库下载下来
+2. git add . 上传所有文件夹内容
+3. git commit -m "标签名字" 给add文件增加标签名字
+4. git push 推送文件去文档
+
 # C: A Wealth of Data
 
 ## Problem:

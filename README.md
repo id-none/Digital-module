@@ -6,6 +6,7 @@
 2. git add . 上传所有文件夹内容
 3. git commit -m "标签名字" 给add文件增加标签名字
 4. git push 推送文件去文档
+4. git pull 把云仓库拉到本地下来
 
 # C: A Wealth of Data
 
@@ -132,3 +133,24 @@ RNN本时刻的隐藏层信息只来源于当前输入和上一时刻的隐藏�
 
 
 
+## Prophet（时序数据预测）参考https://zhuanlan.zhihu.com/p/52330017和https://peerj.com/preprints/3190/
+
+Prophet算法实现：
+
+![image-20220122104144357](README.assets/image-20220122104144357.png)
+
+![image-20220122104221856](README.assets/image-20220122104221856.png)
+
+![image-20220122104302306](README.assets/image-20220122104302306.png)
+
+![image-20220122104314337](README.assets/image-20220122104314337.png)
+
+![image-20220122104341547](README.assets/image-20220122104341547.png)
+
+## 灰色关联分析
+
+![image-20220122104525876](README.assets/image-20220122104525876.png)
+
+![image-20220122110036557](README.assets/image-20220122110036557.png)
+
+![image-20220122110117786](README.assets/image-20220122110117786.png)

@@ -147,6 +147,12 @@ Prophet算法实现：
 
 ![image-20220122104341547](README.assets/image-20220122104341547.png)
 
+![image-20220122112634270](README.assets/image-20220122112634270.png)
+
+
+
+![image-20220122112654625](README.assets/image-20220122112654625.png)
+
 ## 灰色关联分析
 
 ![image-20220122104525876](README.assets/image-20220122104525876.png)
